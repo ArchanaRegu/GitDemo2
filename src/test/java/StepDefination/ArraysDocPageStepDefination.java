@@ -25,6 +25,7 @@ public class ArraysDocPageStepDefination {
 	public void user_clicks_get_stated_button_of_pane() {
 		arraysdocpage.click_getstarted();
 		Assert.assertTrue(arraysdocpage.topic_display());
+		
 	}
 
 	@Then("Arrays page is displayed with Topics covered.")

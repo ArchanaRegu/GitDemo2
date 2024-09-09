@@ -14,7 +14,7 @@ Feature: Verify Arrays page
   Scenario Outline: Verify the Basic Operations in Lists Topics
     Given User clicks "Basic Operations in Lists".
     Then new page is displayed with [Try here>>>] button
-    When User Enters valid  code in editorpage
+    When User Enters <validInvalid> code in editorpage
     And Click Run button and capture the output
 
     Examples: 

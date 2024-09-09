@@ -37,11 +37,9 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/bhara/.m2/repository/org/apache/logging/log4j/log4j-api/3.0.0-beta2/log4j-api-3.0.0-beta2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bhara/.m2/repository/org/apache/logging/log4j/log4j-api/3.0.0-beta2/log4j-api-3.0.0-beta2-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bhara/.m2/repository/org/apache/logging/log4j/log4j-core/3.0.0-beta2/log4j-core-3.0.0-beta2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bhara/.m2/repository/org/apache/logging/log4j/log4j-core/3.0.0-beta2/log4j-core-3.0.0-beta2-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bhara/.m2/repository/org/apache/logging/log4j/log4j-plugins/3.0.0-beta2/log4j-plugins-3.0.0-beta2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bhara/.m2/repository/org/apache/logging/log4j/log4j-plugins/3.0.0-beta2/log4j-plugins-3.0.0-beta2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaya/.m2/repository/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaya/.m2/repository/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaya/.m2/repository/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaya/.m2/repository/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

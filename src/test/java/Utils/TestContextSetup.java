@@ -7,14 +7,14 @@ import org.openqa.selenium.WebDriver;
 import Pageobjects.PageObjectManger;
 
 public class TestContextSetup {
-public WebDriver driver;
-public PageObjectManger pageobjectmanager;
-public TestBase testbase;
-public ExcelDataRetriver exceldata;
+	public WebDriver driver;
+	public PageObjectManger pageobjectmanager;
+	public TestBase testbase;
+	public ExcelDataRetriver exceldata;
 
-public TestContextSetup() throws IOException {
-	testbase=new TestBase();
-	pageobjectmanager=new PageObjectManger(testbase.WebDriverManager());
-	exceldata=new ExcelDataRetriver();
-}
+	public TestContextSetup() throws IOException {
+		testbase = new TestBase();
+		pageobjectmanager = new PageObjectManger(testbase.WebDriverManager());
+		exceldata = new ExcelDataRetriver();
+	}
 }

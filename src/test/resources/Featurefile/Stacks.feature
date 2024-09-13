@@ -1,4 +1,4 @@
-Feature: Verify Arrays page
+Feature: Verify Stacks page
 
   Background: Verify loginpage Signin page
     Given User clicks Sign in link.
